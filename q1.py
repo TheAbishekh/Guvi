@@ -1,4 +1,4 @@
-a=int(input("Input : "))
+a=int(input())
 print("Output :")
 if (a>0):
     print("Positive")
